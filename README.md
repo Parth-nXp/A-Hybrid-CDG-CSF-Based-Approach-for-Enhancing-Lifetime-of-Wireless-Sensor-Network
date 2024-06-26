@@ -41,3 +41,7 @@ This GitHub project focuses on implementing the CDG (Compressive Data Gathering)
 
 
 #### Feel free to explore and modify the code to suit your specific needs. Contributions and feedback are welcome!
+
+
+
+This is implementation of - GV Kumar, P Sharma and PM Pradhan (2023). A Hybrid CDG-CSF Based Approach for Enhancing Lifetime of Wireless Sensor Network. IEEE 7th International Conference on Computer Applications in Electrical Engineering-Recent Advances (CERA), Roorkee, India.
