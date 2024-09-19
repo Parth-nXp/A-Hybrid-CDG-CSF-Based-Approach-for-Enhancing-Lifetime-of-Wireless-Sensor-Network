@@ -1,4 +1,4 @@
-# A-Hybrid-CDG-CSF-Based-Approach-for-Enhancing-Lifetime-of-Wireless-Sensor-Network
+# A Hybrid CDG-CSF Based Approach for Enhancing Lifetime of Wireless Sensor Network
 ## Project Description: CDG-CSF Sensor Data Processing
 
 This GitHub project focuses on implementing the CDG (Compressive Data Gathering) and CSF (Compressive Sensing Framework) techniques for practical sensor data processing. The project provides flexibility in choosing between CDG, CSF, or a combination of both for handling sensor data. Additionally, it allows users to specify the type of data (normal, abnormal, practical, or sinusoidal) and the sensing matrix (normal or modified) based on their specific requirements.
